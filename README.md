@@ -3,7 +3,7 @@
 ## 👨‍🎓 About Me
 
 My name is Shivin Sinha.  
-I am a student of Cloud Computing branch. 
+I am a student of Cloud Computing branch.   
 I am currently in my 1st year.  
 
 ## 🌱 My Learning Goal
